@@ -9,5 +9,9 @@
 9
 0
 10 si om dedi semangat klo di depan cewek
+<<<<<<< HEAD
 11 om guweh tuh
 12 ngambek tar dah
+=======
+11 rahman adul adik kakak kompak banget
+>>>>>>> 590440920946b0ff0c0efada3be950c9e9affcf1
