@@ -1,0 +1,4 @@
+1 belajar git
+2
+3 working
+4 staging
