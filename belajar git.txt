@@ -1,4 +1,8 @@
 1 belajar git
-2
+2 edit
 3 working
 4 staging
+5 dgdf
+6 dfghdf
+7 tamb
+8
