@@ -11,3 +11,9 @@
 10 si om dedi semangat klo di depan cewek
 11 damai om
 12 ok
+13 
+14
+15
+16 isi ini merupakan data
+17 data ini digunakan sebagai alat latih branching di git
+18 sekian dan terima kasih
